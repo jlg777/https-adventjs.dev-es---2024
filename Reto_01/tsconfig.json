@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "target": "es6",             // Compila a ES6 o superior
+      "lib": ["es2015", "dom"],    // Especifica las bibliotecas de ES6 y DOM
+      "strict": true,              // Activa el modo estricto para detectar más errores
+      "esModuleInterop": true      // Asegura la interoperabilidad de los módulos
+    }
+  }
+  
